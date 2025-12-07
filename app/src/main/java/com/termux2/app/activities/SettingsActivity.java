@@ -42,7 +42,7 @@ public class SettingsActivity extends AppCompatActivity {
                 .commit();
         }
 
-        AppCompatActivityUtils.setToolbar(this, com.termux2.shared.R.id.toolbar);
+        AppCompatActivityUtils.setToolbar(this, com.termux.shared.R.id.toolbar);
         AppCompatActivityUtils.setShowBackButtonInActionBar(this, true);
     }
 
