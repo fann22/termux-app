@@ -1,4 +1,4 @@
-package com.termux.shared.logger;
+package com.termux2.shared.logger;
 
 import android.content.Context;
 import android.os.Handler;
@@ -8,8 +8,8 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 
-import com.termux.shared.R;
-import com.termux.shared.data.DataUtils;
+import com.termux2.shared.R;
+import com.termux2.shared.data.DataUtils;
 
 import java.io.IOException;
 import java.io.PrintWriter;

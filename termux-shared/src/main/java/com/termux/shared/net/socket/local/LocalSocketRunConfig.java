@@ -1,10 +1,10 @@
-package com.termux.shared.net.socket.local;
+package com.termux2.shared.net.socket.local;
 
 import androidx.annotation.NonNull;
 
-import com.termux.shared.file.FileUtils;
-import com.termux.shared.logger.Logger;
-import com.termux.shared.markdown.MarkdownUtils;
+import com.termux2.shared.file.FileUtils;
+import com.termux2.shared.logger.Logger;
+import com.termux2.shared.markdown.MarkdownUtils;
 
 import java.io.Serializable;
 import java.nio.charset.StandardCharsets;

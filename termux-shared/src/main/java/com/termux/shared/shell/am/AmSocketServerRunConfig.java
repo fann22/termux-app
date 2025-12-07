@@ -1,13 +1,13 @@
-package com.termux.shared.shell.am;
+package com.termux2.shared.shell.am;
 
 import android.Manifest;
 
 import androidx.annotation.NonNull;
 
-import com.termux.shared.logger.Logger;
-import com.termux.shared.markdown.MarkdownUtils;
-import com.termux.shared.net.socket.local.ILocalSocketManager;
-import com.termux.shared.net.socket.local.LocalSocketRunConfig;
+import com.termux2.shared.logger.Logger;
+import com.termux2.shared.markdown.MarkdownUtils;
+import com.termux2.shared.net.socket.local.ILocalSocketManager;
+import com.termux2.shared.net.socket.local.LocalSocketRunConfig;
 
 import java.io.Serializable;
 
