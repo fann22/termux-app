@@ -18,10 +18,10 @@ import android.os.PowerManager;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux.R;
-import com.termux.app.event.SystemEventReceiver;
-import com.termux.app.terminal.TermuxTerminalSessionActivityClient;
-import com.termux.app.terminal.TermuxTerminalSessionServiceClient;
+import com.termux2.R;
+import com.termux2.app.event.SystemEventReceiver;
+import com.termux2.app.terminal.TermuxTerminalSessionActivityClient;
+import com.termux2.app.terminal.TermuxTerminalSessionServiceClient;
 import com.termux.shared.termux.plugins.TermuxPluginUtils;
 import com.termux.shared.data.IntentUtils;
 import com.termux.shared.net.uri.UriUtils;

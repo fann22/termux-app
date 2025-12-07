@@ -4,7 +4,7 @@ import android.graphics.Rect;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.termux.app.TermuxActivity;
+import com.termux2.app.TermuxActivity;
 
 /**
  * Work around for fullscreen mode in Termux to fix ExtraKeysView not being visible.
