@@ -1,4 +1,4 @@
-package com.termux2.shared.android;
+package com.termux.shared.android;
 
 import android.content.Context;
 import android.provider.Settings;
@@ -6,7 +6,7 @@ import android.provider.Settings;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux2.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 public class SettingsProviderUtils {
 

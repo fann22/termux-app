@@ -1,4 +1,4 @@
-package com.termux2.shared.termux.shell.command.environment;
+package com.termux.shared.termux.shell.command.environment;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
@@ -8,14 +8,14 @@ import android.os.Build;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux2.shared.android.PackageUtils;
-import com.termux2.shared.android.SELinuxUtils;
-import com.termux2.shared.data.DataUtils;
-import com.termux2.shared.shell.command.environment.ShellEnvironmentUtils;
-import com.termux2.shared.termux.TermuxBootstrap;
-import com.termux2.shared.termux.TermuxConstants;
-import com.termux2.shared.termux.TermuxUtils;
-import com.termux2.shared.termux.shell.am.TermuxAmSocketServer;
+import com.termux.shared.android.PackageUtils;
+import com.termux.shared.android.SELinuxUtils;
+import com.termux.shared.data.DataUtils;
+import com.termux.shared.shell.command.environment.ShellEnvironmentUtils;
+import com.termux.shared.termux.TermuxBootstrap;
+import com.termux.shared.termux.TermuxConstants;
+import com.termux.shared.termux.TermuxUtils;
+import com.termux.shared.termux.shell.am.TermuxAmSocketServer;
 
 import java.util.HashMap;
 
