@@ -1,15 +1,15 @@
 package com.termux2.shared.termux.settings.properties;
 
 import com.google.common.collect.ImmutableBiMap;
-import com.termux2.shared.termux.shell.am.TermuxAmSocketServer;
-import com.termux2.shared.theme.NightMode;
-import com.termux2.shared.file.FileUtils;
-import com.termux2.shared.file.filesystem.FileType;
-import com.termux2.shared.settings.properties.SharedProperties;
-import com.termux2.shared.termux.TermuxConstants;
-import com.termux2.shared.logger.Logger;
-import com.termux2.terminal.TerminalEmulator;
-import com.termux2.view.TerminalView;
+import com.termux.shared.termux.shell.am.TermuxAmSocketServer;
+import com.termux.shared.theme.NightMode;
+import com.termux.shared.file.FileUtils;
+import com.termux.shared.file.filesystem.FileType;
+import com.termux.shared.settings.properties.SharedProperties;
+import com.termux.shared.termux.TermuxConstants;
+import com.termux.shared.logger.Logger;
+import com.termux.terminal.TerminalEmulator;
+import com.termux.view.TerminalView;
 
 import java.io.File;
 import java.util.Arrays;

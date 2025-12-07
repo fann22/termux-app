@@ -16,11 +16,11 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 
-import com.termux2.shared.R;
-import com.termux2.shared.data.DataUtils;
-import com.termux2.shared.interact.MessageDialogUtils;
-import com.termux2.shared.logger.Logger;
-import com.termux2.shared.reflection.ReflectionUtils;
+import com.termux.shared.R;
+import com.termux.shared.data.DataUtils;
+import com.termux.shared.interact.MessageDialogUtils;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.reflection.ReflectionUtils;
 
 import java.lang.reflect.Field;
 import java.security.MessageDigest;

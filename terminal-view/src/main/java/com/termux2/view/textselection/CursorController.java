@@ -3,7 +3,7 @@ package com.termux2.view.textselection;
 import android.view.MotionEvent;
 import android.view.ViewTreeObserver;
 
-import com.termux2.view.TerminalView;
+import com.termux.view.TerminalView;
 
 /**
  * A CursorController instance can be used to control cursors in the text.

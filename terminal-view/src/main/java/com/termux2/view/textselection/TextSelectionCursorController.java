@@ -13,10 +13,10 @@ import android.view.View;
 
 import androidx.annotation.Nullable;
 
-import com.termux2.terminal.TerminalBuffer;
-import com.termux2.terminal.WcWidth;
-import com.termux2.view.R;
-import com.termux2.view.TerminalView;
+import com.termux.terminal.TerminalBuffer;
+import com.termux.terminal.WcWidth;
+import com.termux.view.R;
+import com.termux.view.TerminalView;
 
 public class TextSelectionCursorController implements CursorController {
 

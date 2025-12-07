@@ -16,7 +16,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.termux2.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 public class ViewUtils {
 

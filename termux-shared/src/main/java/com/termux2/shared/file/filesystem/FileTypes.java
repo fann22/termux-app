@@ -4,7 +4,7 @@ import android.system.Os;
 
 import androidx.annotation.NonNull;
 
-import com.termux2.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 import java.io.File;
 

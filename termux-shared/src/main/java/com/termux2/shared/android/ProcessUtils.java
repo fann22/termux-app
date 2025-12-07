@@ -6,7 +6,7 @@ import android.content.Context;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux2.shared.logger.Logger;
+import com.termux.shared.logger.Logger;
 
 import java.util.List;
 

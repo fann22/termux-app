@@ -7,11 +7,11 @@ import android.view.View;
 import androidx.annotation.NonNull;
 
 import com.google.android.material.button.MaterialButton;
-import com.termux2.shared.termux.extrakeys.ExtraKeyButton;
-import com.termux2.shared.termux.extrakeys.ExtraKeysView;
-import com.termux2.shared.termux.extrakeys.SpecialButton;
-import com.termux2.terminal.TerminalSession;
-import com.termux2.view.TerminalView;
+import com.termux.shared.termux.extrakeys.ExtraKeyButton;
+import com.termux.shared.termux.extrakeys.ExtraKeysView;
+import com.termux.shared.termux.extrakeys.SpecialButton;
+import com.termux.terminal.TerminalSession;
+import com.termux.view.TerminalView;
 
 import static com.termux2.shared.termux.extrakeys.ExtraKeysConstants.PRIMARY_KEY_CODES_FOR_STRINGS;
 

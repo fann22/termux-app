@@ -3,10 +3,10 @@ package com.termux2.shared.shell;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux2.shared.file.FileUtils;
-import com.termux2.terminal.TerminalBuffer;
-import com.termux2.terminal.TerminalEmulator;
-import com.termux2.terminal.TerminalSession;
+import com.termux.shared.file.FileUtils;
+import com.termux.terminal.TerminalBuffer;
+import com.termux.terminal.TerminalEmulator;
+import com.termux.terminal.TerminalSession;
 
 import java.lang.reflect.Field;
 

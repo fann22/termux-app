@@ -12,8 +12,8 @@ import androidx.preference.PreferenceDataStore;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceManager;
 
-import com.termux2.R;
-import com.termux2.shared.termux.settings.preferences.TermuxFloatAppSharedPreferences;
+import com.termux.R;
+import com.termux.shared.termux.settings.preferences.TermuxFloatAppSharedPreferences;
 
 @Keep
 public class DebuggingPreferencesFragment extends PreferenceFragmentCompat {

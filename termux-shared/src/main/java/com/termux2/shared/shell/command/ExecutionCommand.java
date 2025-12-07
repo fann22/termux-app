@@ -6,15 +6,15 @@ import android.net.Uri;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.termux2.shared.data.IntentUtils;
-import com.termux2.shared.shell.command.result.ResultConfig;
-import com.termux2.shared.shell.command.result.ResultData;
-import com.termux2.shared.errors.Error;
-import com.termux2.shared.logger.Logger;
-import com.termux2.shared.markdown.MarkdownUtils;
-import com.termux2.shared.data.DataUtils;
-import com.termux2.shared.shell.command.runner.app.AppShell;
-import com.termux2.terminal.TerminalSession;
+import com.termux.shared.data.IntentUtils;
+import com.termux.shared.shell.command.result.ResultConfig;
+import com.termux.shared.shell.command.result.ResultData;
+import com.termux.shared.errors.Error;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.markdown.MarkdownUtils;
+import com.termux.shared.data.DataUtils;
+import com.termux.shared.shell.command.runner.app.AppShell;
+import com.termux.terminal.TerminalSession;
 
 import java.util.Collections;
 import java.util.List;

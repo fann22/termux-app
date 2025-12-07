@@ -3,8 +3,8 @@ package com.termux2.shared.termux;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 
-import com.termux2.shared.shell.command.ExecutionCommand;
-import com.termux2.shared.shell.command.ExecutionCommand.Runner;
+import com.termux.shared.shell.command.ExecutionCommand;
+import com.termux.shared.shell.command.ExecutionCommand.Runner;
 
 import java.io.File;
 import java.util.Arrays;

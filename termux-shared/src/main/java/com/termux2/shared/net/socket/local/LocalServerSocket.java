@@ -2,10 +2,10 @@ package com.termux2.shared.net.socket.local;
 
 import androidx.annotation.NonNull;
 
-import com.termux2.shared.errors.Error;
-import com.termux2.shared.file.FileUtils;
-import com.termux2.shared.jni.models.JniResult;
-import com.termux2.shared.logger.Logger;
+import com.termux.shared.errors.Error;
+import com.termux.shared.file.FileUtils;
+import com.termux.shared.jni.models.JniResult;
+import com.termux.shared.logger.Logger;
 
 import java.io.Closeable;
 import java.io.File;

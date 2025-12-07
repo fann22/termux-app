@@ -4,8 +4,8 @@ import android.app.PendingIntent;
 
 import androidx.annotation.NonNull;
 
-import com.termux2.shared.logger.Logger;
-import com.termux2.shared.markdown.MarkdownUtils;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.markdown.MarkdownUtils;
 
 import java.util.Formatter;
 

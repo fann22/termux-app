@@ -6,8 +6,8 @@ import android.graphics.Typeface;
 import androidx.annotation.Keep;
 import androidx.annotation.NonNull;
 
-import com.termux2.shared.activities.TextIOActivity;
-import com.termux2.shared.data.DataUtils;
+import com.termux.shared.activities.TextIOActivity;
+import com.termux.shared.data.DataUtils;
 
 import java.io.Serializable;
 

@@ -24,11 +24,11 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.termux2.shared.interact.ShareUtils;
-import com.termux2.shared.logger.Logger;
-import com.termux2.shared.R;
-import com.termux2.shared.models.TextIOInfo;
-import com.termux2.shared.view.KeyboardUtils;
+import com.termux.shared.interact.ShareUtils;
+import com.termux.shared.logger.Logger;
+import com.termux.shared.R;
+import com.termux.shared.models.TextIOInfo;
+import com.termux.shared.view.KeyboardUtils;
 
 import org.jetbrains.annotations.NotNull;
 

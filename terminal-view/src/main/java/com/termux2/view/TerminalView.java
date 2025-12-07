@@ -37,10 +37,10 @@ import android.widget.Scroller;
 import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 
-import com.termux2.terminal.KeyHandler;
-import com.termux2.terminal.TerminalEmulator;
-import com.termux2.terminal.TerminalSession;
-import com.termux2.view.textselection.TextSelectionCursorController;
+import com.termux.terminal.KeyHandler;
+import com.termux.terminal.TerminalEmulator;
+import com.termux.terminal.TerminalSession;
+import com.termux.view.textselection.TextSelectionCursorController;
 
 /** View displaying and interacting with a {@link TerminalSession}. */
 public final class TerminalView extends View {
