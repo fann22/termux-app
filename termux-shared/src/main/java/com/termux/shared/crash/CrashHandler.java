@@ -1,4 +1,4 @@
-package com.termux2.shared.crash;
+package com.termux.shared.crash;
 
 import android.content.Context;
 

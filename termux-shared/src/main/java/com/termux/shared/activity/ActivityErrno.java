@@ -1,4 +1,4 @@
-package com.termux2.shared.activity;
+package com.termux.shared.activity;
 
 import com.termux.shared.errors.Errno;
 

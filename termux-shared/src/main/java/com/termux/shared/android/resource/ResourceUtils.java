@@ -1,4 +1,4 @@
-package com.termux2.shared.android.resource;
+package com.termux.shared.android.resource;
 
 import android.content.Context;
 

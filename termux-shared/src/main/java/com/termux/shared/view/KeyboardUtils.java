@@ -1,4 +1,4 @@
-package com.termux2.shared.view;
+package com.termux.shared.view;
 
 import android.app.Activity;
 import android.content.Context;

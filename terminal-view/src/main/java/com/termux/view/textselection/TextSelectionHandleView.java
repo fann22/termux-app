@@ -1,4 +1,4 @@
-package com.termux2.view.textselection;
+package com.termux.view.textselection;
 
 import android.annotation.SuppressLint;
 import android.graphics.Canvas;

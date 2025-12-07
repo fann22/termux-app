@@ -1,4 +1,4 @@
-package com.termux2.shared.settings.properties;
+package com.termux.shared.settings.properties;
 
 import android.content.Context;
 import android.widget.Toast;

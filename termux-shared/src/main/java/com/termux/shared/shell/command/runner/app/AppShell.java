@@ -1,4 +1,4 @@
-package com.termux2.shared.shell.command.runner.app;
+package com.termux.shared.shell.command.runner.app;
 
 import android.content.Context;
 import android.system.ErrnoException;

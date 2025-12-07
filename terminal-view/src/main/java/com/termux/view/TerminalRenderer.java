@@ -1,4 +1,4 @@
-package com.termux2.view;
+package com.termux.view;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

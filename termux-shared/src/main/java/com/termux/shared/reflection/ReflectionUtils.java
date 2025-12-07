@@ -1,4 +1,4 @@
-package com.termux2.shared.reflection;
+package com.termux.shared.reflection;
 
 import android.os.Build;
 

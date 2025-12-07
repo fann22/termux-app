@@ -1,4 +1,4 @@
-package com.termux2.shared.net.socket.local;
+package com.termux.shared.net.socket.local;
 
 import androidx.annotation.NonNull;
 

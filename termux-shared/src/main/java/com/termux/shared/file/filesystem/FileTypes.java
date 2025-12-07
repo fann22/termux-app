@@ -1,4 +1,4 @@
-package com.termux2.shared.file.filesystem;
+package com.termux.shared.file.filesystem;
 
 import android.system.Os;
 

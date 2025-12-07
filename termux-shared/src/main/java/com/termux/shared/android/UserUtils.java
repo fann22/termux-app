@@ -1,4 +1,4 @@
-package com.termux2.shared.android;
+package com.termux.shared.android;
 
 import android.content.Context;
 import android.content.pm.PackageManager;

@@ -1,4 +1,4 @@
-package com.termux2.shared.settings.preferences;
+package com.termux.shared.settings.preferences;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
